@@ -7,3 +7,4 @@ Uno dei piatti migliori
 *aglio
 *olio
 *peperoncino
+*panna
